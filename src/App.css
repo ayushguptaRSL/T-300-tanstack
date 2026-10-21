@@ -1,0 +1,18 @@
+/* Header used by App.tsx */
+.header {
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 12px;
+  margin-bottom: 20px;
+}
+
+.header h1 {
+  font-size: 22px;
+  color: #222;
+  margin: 0;
+}
+
+.subtitle {
+  color: #666;
+  font-size: 13px;
+  margin-top: 4px;
+}
